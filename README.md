@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there my name is Olivia Chea 👋
 
-<!--
-**liviachea/liviachea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business & Data Analyst with a proven ability to transform complex data into clear and actionable visualizations. Leveraging my expertise, I translate your requirements into key metrics and visual insights, facilitating strategic decision-making. My background in financial controlling adds analytical rigor, while I create impactful visualizations using tools like Excel, SQL and Tableau. I help you better understand your data and extract strategic insights to enhance your performance
 
-Here are some ideas to get you started:
+🎓 Master's Degree in Financial Control and Auditing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 Data wrangling and Data analysis using Excel / SQL / Python
+
+📊 Data visualization and storytelling skills using Tableau / Power BI
+
+📝 Translating business requirements into actionable key metrics and insights
+
+LinkedIn : [Olivia Chea](https://www.linkedin.com/in/olivia-chea-27277b174/)
