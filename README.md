@@ -1,6 +1,6 @@
-### Hi there my name is Olivia Chea 👋
+### Hello, my name is Olivia Chea 👋
 
-Business & Data Analyst with a proven ability to transform complex data into clear and actionable visualizations. Leveraging my expertise, I translate your requirements into key metrics and visual insights, facilitating strategic decision-making. My background in financial controlling adds analytical rigor, while I create impactful visualizations using tools like Excel, SQL and Tableau. I help you better understand your data and extract strategic insights to enhance your performance
+I'm a Data & Business Analyst skilled in transforming complex data into clear, actionable insights. I specialize in creating impactful visualizations using Excel, SQL, and Tableau, helping businesses make strategic decisions. With a background in financial controlling, I bring analytical rigor to understanding data and driving performance improvements.
 
 🎓 Master's Degree in Financial Control and Auditing
 
